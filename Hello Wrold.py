@@ -1,6 +1,7 @@
 print'Hello World!'
 
-print 'something'
-print '...'
+print 'something Nut5555555555555'
+print 'nut kak' 
+
 
 print 'jj'
